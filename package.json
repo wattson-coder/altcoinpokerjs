@@ -1,8 +1,8 @@
 {
   "name": "cryptopoker",
-  "version": "0.0.1",
+  "version": "^0.0.1",
   "engines": {
-      "node": "0.10.21"
+      "node": "^0.10.21"
   },
   "private": true,
   "scripts": {
